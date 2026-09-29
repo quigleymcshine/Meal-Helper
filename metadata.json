@@ -1,0 +1,6 @@
+{
+  "name": "Dinner Planner",
+  "description": "Weekly dinner meal planner, dynamic grocery shopping list with quick re-add, and smart pantry inventory tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
